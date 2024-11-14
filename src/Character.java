@@ -1,5 +1,5 @@
 public class Character {
-    public inventory backpack;
+    public Inventory backpack;
     public int hp;
     public String name;
 }
